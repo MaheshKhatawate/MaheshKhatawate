@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi I am Mahesh a BE student currently figuring out codebases learning the AI tech and also learning development.
+Hi I am Mahesh a BE student currently figuring out codebases learning the AI tech and also learning development.</br>
+Staying updated always with, 
+```
+git add .
+git commit -m "Stay updated"
+git push origin life
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-khatawate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mahesh_v_k_) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mahesh_V_Khatawate) [![Codeforces](https://img.shields.io/badge/-Codeforces-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mahesh_129) [![GeeksforGeeks](https://img.shields.io/badge/-GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/maheshkhat1kt1) [![Codility](https://img.shields.io/badge/-Codility-FFDD00?style=for-the-badge&logo=codility&logoColor=black)](https://codolio.com/profile/lowping)
